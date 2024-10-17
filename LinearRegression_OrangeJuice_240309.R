@@ -1,4 +1,4 @@
-# Title : LogisticRegression_OrangeJuice
+# Title : LinearRegression_OrangeJuice
 # Problem Statement: To evaluate sale performances for orange juice brands at 3 different price points
 # By: mikportfolio, 240309 1220PM
 
